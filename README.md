@@ -1,1 +1,2 @@
 # landing-page-project
+This is my first website ever made from scratch. We only had a reference from The Odin Project, which was an image <a href ="https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png">based off how it should look like</a> along with an image <a href="https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/colors_and_stuff.png">based off how the fonts and colors should look like.</a> Pretty fun project over all, took me about 4-5 hours in total but in the span of 2 days.
